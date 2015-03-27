@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\bin\Debug\Post_Office_Yabl.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\obj\Debug\Post_Office_Yabl.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\bin\Debug\Post_Office_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\bin\Debug\Post_Office_Yabl.pdb
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\obj\Debug\Post_Office_Yabl.exe
+D:\Учеба\С#_5.0\DZ\DZ_28.03.15\Post_Office_Yabl\Post_Office_Yabl\obj\Debug\Post_Office_Yabl.pdb
